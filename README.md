@@ -7,4 +7,4 @@ Complete e-commerce shopping process
  Custom Dialog
 Realize specific design effects by setting, modifying, combining self-contained parts and customizing to meet the needs of daily development.
 
-This project is still in continuous iteration, just give 🌟🌟 if you like it !
+This project is still in continuous iteration, just give 🌟🌟 if you like it!
