@@ -1,3 +1,4 @@
+This project is tested with BrowserStack.
 Complete e-commerce shopping process
  Animation linkage between category pages
  Use provider (version 4.x) for state management
