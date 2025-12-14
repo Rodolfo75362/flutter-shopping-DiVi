@@ -9,4 +9,3 @@ Realize specific design effects by setting, modifying, combining self-contained 
 
 This project is still in continuous iteration, just give 🌟🌟 if you like it!
 
-This project is tested with BrowserStack
